@@ -1,9 +1,17 @@
 <template>
-  <div>todo header</div>
+  <div>
+    <img src="../../assets/logo.png" />
+  </div>
 </template>
 
 <script>
-export default {};
+export default {}
 </script>
 
-<style></style>
+<style>
+img {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  height: 50px;
+}
+</style>
